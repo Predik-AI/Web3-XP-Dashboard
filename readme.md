@@ -15,6 +15,12 @@
 
 **PREDIK** revolutionizes predictive analytics by combining crowd-sourced intelligence with blockchain verification. Built by the team behind Europe's most advanced smart-beta indices, we're creating a decentralized ecosystem where data scientists, traders, and institutions collaborate to generate alpha.
 
+The traditional research pipeline is broken. While institutional investors have the infrastructure, they lack agile sentiment intelligence. Meanwhile, experts and data scientists worldwide are underutilized. **Predik bridges that gap.**
+
+### A New Standard for Predictive Intelligence
+
+**Predik insights are Human-Powered. Machine-Assisted.**
+
 ### 🎯 Core Value Proposition
 
 - **For Traders**: Monetize your market insights with verifiable on-chain predictions
